@@ -18,7 +18,7 @@ Each line contains a word. With a wait between 0 and 1,000,000
 ```
 
 ## Ignored Chars
-Ignored chars shoulnd't be in the dataset and will be stripped out of the entered message.
+Ignored chars shouldn't be in the dataset and will be stripped out of the entered message.
 ```Regex
 REGEX here
 ```
