@@ -20,9 +20,5 @@ Each line contains a word. With a wait between 0 and 5,000,000
 ## Ignored Chars
 Ignored chars shouldn't be in the dataset and will be stripped out of the entered message.
 ```Regex
-REGEX here
+[ !\"§$%&/()=?+*#'\\-_.:,;<>|~{}\\[\\]0-9]
 ```
-- 0-9
-- '.'
-- '-'
-- ' '
