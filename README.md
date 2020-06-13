@@ -12,7 +12,7 @@ words_<Language>(-extended).txt
 - en -> English
 
 ## Format
-Each line contains a word. With a wait between 0 and 5,000,000
+Each line contains a word. With a weight between 0 and 5,000,000
 ```
 <Word>-<Wheight>
 ```
