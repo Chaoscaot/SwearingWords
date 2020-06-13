@@ -7,7 +7,7 @@ This repository contains a word list and extended word list of bad words in diff
 words_<Language>(-extended).txt
 ```
 
-## Language
+## Languages
 - de -> German
 - en -> English
 
