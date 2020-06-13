@@ -18,6 +18,9 @@ Each line contains a word. With a wait between 0 and 1,000,000
 ```
 
 ## Removed Chars
+```Regex
+REGEX here
+```
 - 0-9
 - '.'
 - '-'
